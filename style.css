@@ -1,0 +1,82 @@
+*{
+    max-width: 100%;
+}
+.one {
+background-image: url(https://learnizo.co.in/wp-content/uploads/2022/06/HeroKidWide.jpg?fit=1366%2C535&ssl=1
+);
+background-repeat:no-repeat;
+background-position:center;
+background-attachment: fixed;
+background-size:cover;
+}
+
+header{
+height: 30;
+background: black;
+visibility: hidden;
+display: flex;
+}
+div{
+    visibility: visible;
+}
+.imglogo{
+   width: 200px;
+}
+.t1{
+   justify-content: center;
+   text-align: center;
+}
+.quate{
+   
+    font-weight: 700;
+    font-size: 50px;
+}
+.cl{
+    color: #060606;
+    font-family: "Lato";
+    font-weight: 400;
+    font-size: 20px;
+}
+.frame{
+    height: 250px;
+    width: 450px;
+    background-color: rgb(95 91 91 / 70%);
+    align-items: center;
+
+
+}
+.sh{
+    color: white;
+    font-weight: bold;
+}
+.info{
+    align-items: center;
+}
+
+.sz{
+    font-size: 20px;
+}
+.sb1{
+    font-weight: bold;
+}
+.mh{
+    font-weight: 900;
+}
+.sh3{
+    font-size: 18px;
+}
+.form-group{
+    margin: auto;
+}
+
+.just{
+    display: flex;
+    justify-content: center;
+}
+.bg-dark{
+    list-style: none;
+}
+.just1{
+    display: flex;
+    justify-content:center;
+}
